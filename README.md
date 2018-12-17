@@ -11,7 +11,7 @@ This is a memory game inspired by the card game "Yu-Gi-Oh!" using React. The app
 
 2. The app will render 12 different images to the screen. 
 
-![memory game](./images/clickygame.png)
+![memory game](public/images/clickygame.png)
 
 3. The app keeps track of the user's score. The user's score increments when clicking an image for the first time. The user's score will be reset to 0 if they click the same image more than once.
 
@@ -28,7 +28,7 @@ This is a memory game inspired by the card game "Yu-Gi-Oh!" using React. The app
 
 ## Website
 
-https://RavenAlexander.github.io/ClickyGame/
+https://ravenalexander.github.io/ClickyGame/
 
 ## Created By
 
